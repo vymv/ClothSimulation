@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\point.h(35): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\point.h(42): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(263): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(373): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(444): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(452): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(462): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(470): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(479): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(488): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(594): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 2 拥有了类型“Vector3”
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(594): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 3 拥有了类型“GLint”
+d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(594): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\files\课程\计算机图形学cg\大作业\布料\mycloth\mycloth\main.cpp(594): note: 占位符和其参数预计 3 可变参数，但提供的却是 4 参数
+  MyCloth.vcxproj -> D:\files\课程\计算机图形学CG\大作业\布料\MyCloth\Debug\MyCloth.exe
